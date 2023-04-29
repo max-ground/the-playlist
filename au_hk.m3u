@@ -105,3 +105,8 @@ https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Undefined",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="News",ABC News (720p)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png" group-title="",ABC TV (720p)
+https://c.mjh.nz/101002210221
